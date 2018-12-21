@@ -4,7 +4,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.Arrays;
 
-public class Test1 {
+public class Test1 { 
 	public static void main(String[] args) {
 		try {
 			//获取本机的InetAddress类的实例
